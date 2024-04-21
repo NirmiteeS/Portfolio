@@ -35,7 +35,7 @@ function About() {
         <p className='about-subtitle'>Hi! I'm Nirmitee Sarode, dedicatedly studying computer engineering student at Sardar Patel Institute of Technology. My passion lies in software development, particularly within the realms of web development and project management. Eager to immerse myself further in the dynamic world of technology, I aspire to contribute my skills and creativity to impactful projects that shape the future.</p>
         <div className="frame">
         <button onClick={openPDF}  className="custom-btn btn-1">My Resume</button>
-        <button  onClick={() => openInNewTab('https://bobbyhadz.com')} className="custom-btn btn-2" >Github Repos</button></div>
+        <button  onClick={() => openInNewTab('https://github.com/NirmiteeS?tab=repositories')} className="custom-btn btn-2" >Github Repos</button></div>
         </div>
     </section> 
     </div>
