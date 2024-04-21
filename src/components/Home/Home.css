@@ -4,7 +4,7 @@
 .home{
     height: 100vh;
     width: 100vw;
-    background-image: url(C:\Users\91885\OneDrive\Desktop\react\Portfolio_site\portfolio_website\src\assets\bg-img.jpg);
+    background-image: linear-gradient( #004857,#000116);
     margin: auto;
 }
 
